@@ -42,5 +42,3 @@ pigeon_list.each do |name, attribute_hash|
 end
 pigeon_list
 end
-
-end
